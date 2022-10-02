@@ -1,5 +1,5 @@
 - 👋 Hi, this Yuchen
-- 📫 You can reach me on twitter https://twitter.com/yzhong52
+- 📫 You can reach me on twitter [@yzhong52](https://twitter.com/yzhong52) or follow me on Medium [@yuchen52](https://medium.com/@yuchen52)
 
 Checkout my Rust projects:
 
