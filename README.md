@@ -6,3 +6,7 @@ Checkout my Rust projects:
 - [Ascii Chord](https://github.com/yzhong52/ascii_chord)
 - [Ascii Tree](https://github.com/yzhong52/ascii_tree)
 - [Rust gRPC Demo](https://github.com/yzhong52/rust_grpc_demo)
+
+Checout my blog posts:
+
+- [Versioned Data Management System Design](https://yuchen52.medium.com/6e27598eb023)
